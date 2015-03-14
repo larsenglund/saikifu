@@ -1,0 +1,1 @@
+Allows automatic kifu creation through a webcam looking at the go-board. Made in Java by Lars Englund.
